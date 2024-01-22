@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mk8o8jda7R+PctrdYSu25drhdgFiT60u7oFOJ0p84iLx2oL0cY3lJ/MI3IECa6stIsT6wq9kE2u9dPCe2l9CPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Data-Types-Variables-and-Simple-Calculations\\P05-Basketball-equipment\\P05-Basketball-equipment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

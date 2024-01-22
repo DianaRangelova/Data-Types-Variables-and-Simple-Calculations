@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\bin\Debug\net6.0\P05-Basketball-equipment.exe
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\bin\Debug\net6.0\P05-Basketball-equipment.deps.json
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\bin\Debug\net6.0\P05-Basketball-equipment.runtimeconfig.json
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\bin\Debug\net6.0\P05-Basketball-equipment.dll
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\bin\Debug\net6.0\P05-Basketball-equipment.pdb
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\obj\Debug\net6.0\P05-Basketball-equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\obj\Debug\net6.0\P05-Basketball-equipment.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\obj\Debug\net6.0\P05-Basketball-equipment.AssemblyInfo.cs
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\obj\Debug\net6.0\P05-Basketball-equipment.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\obj\Debug\net6.0\P05-Basketball-equipment.dll
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\obj\Debug\net6.0\refint\P05-Basketball-equipment.dll
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\obj\Debug\net6.0\P05-Basketball-equipment.pdb
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\obj\Debug\net6.0\P05-Basketball-equipment.genruntimeconfig.cache
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P05-Basketball-equipment\obj\Debug\net6.0\ref\P05-Basketball-equipment.dll

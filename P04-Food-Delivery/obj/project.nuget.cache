@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PXJEIxeyngwp9y29Ugh462yNDrGhRwuQETR3stPWtyEobuFMPEKM6TtXeI7MDb/AvGb56hpxU5ryU/V6sMvTTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Data-Types-Variables-and-Simple-Calculations\\P04-Food-Delivery\\P04-Food-Delivery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

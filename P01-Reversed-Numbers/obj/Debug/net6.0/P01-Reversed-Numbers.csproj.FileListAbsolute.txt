@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\bin\Debug\net6.0\P01-Reversed-Numbers.exe
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\bin\Debug\net6.0\P01-Reversed-Numbers.deps.json
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\bin\Debug\net6.0\P01-Reversed-Numbers.runtimeconfig.json
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\bin\Debug\net6.0\P01-Reversed-Numbers.dll
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\bin\Debug\net6.0\P01-Reversed-Numbers.pdb
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\obj\Debug\net6.0\P01-Reversed-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\obj\Debug\net6.0\P01-Reversed-Numbers.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\obj\Debug\net6.0\P01-Reversed-Numbers.AssemblyInfo.cs
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\obj\Debug\net6.0\P01-Reversed-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\obj\Debug\net6.0\P01-Reversed-Numbers.dll
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\obj\Debug\net6.0\refint\P01-Reversed-Numbers.dll
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\obj\Debug\net6.0\P01-Reversed-Numbers.pdb
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\obj\Debug\net6.0\P01-Reversed-Numbers.genruntimeconfig.cache
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P01-Reversed-Numbers\obj\Debug\net6.0\ref\P01-Reversed-Numbers.dll

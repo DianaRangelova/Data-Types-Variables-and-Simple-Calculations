@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\bin\Debug\net6.0\P03-Redecorating.exe
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\bin\Debug\net6.0\P03-Redecorating.deps.json
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\bin\Debug\net6.0\P03-Redecorating.runtimeconfig.json
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\bin\Debug\net6.0\P03-Redecorating.dll
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\bin\Debug\net6.0\P03-Redecorating.pdb
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\obj\Debug\net6.0\P03-Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\obj\Debug\net6.0\P03-Redecorating.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\obj\Debug\net6.0\P03-Redecorating.AssemblyInfo.cs
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\obj\Debug\net6.0\P03-Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\obj\Debug\net6.0\P03-Redecorating.dll
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\obj\Debug\net6.0\refint\P03-Redecorating.dll
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\obj\Debug\net6.0\P03-Redecorating.pdb
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\obj\Debug\net6.0\P03-Redecorating.genruntimeconfig.cache
+C:\Users\PC\source\repos\Data-Types-Variables-and-Simple-Calculations\P03-Redecorating\obj\Debug\net6.0\ref\P03-Redecorating.dll

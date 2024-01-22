@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OD1rB6IdE3tj71Eq3+SOk7fq1eURrqNI9b4kZlb2/emvrZMdsaurOlqUSO00L6NGyZTvSpOYTVqp5xfbZyvllQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Data-Types-Variables-and-Simple-Calculations\\P02-Centuries-to-Minutes\\P02-Centuries-to-Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

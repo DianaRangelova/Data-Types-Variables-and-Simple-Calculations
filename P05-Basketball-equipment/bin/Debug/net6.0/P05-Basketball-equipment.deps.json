@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P05-Basketball-equipment/1.0.0": {
+        "runtime": {
+          "P05-Basketball-equipment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P05-Basketball-equipment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
